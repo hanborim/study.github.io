@@ -1,6 +1,10 @@
-'-비쥬얼 스튜디어  필수 익스텐션 10개
+'-비쥬얼 스튜디오 코드  필수 익스텐션 10개
 1.material theme (눈에 편안한 색상에 맞춰서 개발)
 2.Material Icon Theme (아이콘이 생동감 있게 변함)
 3.Prettier - Code formatter
 4.Bracket Pair Colorizer
-5.
+5.indent-rainbow - () 중괄호 {} 등 색깔 입혀짐
+6.Auto Rename Tag -앞에 태그를 바꾸면, 뒤에 태그 자동으로 변경
+7. CSS Peek - css정의된부분 찾아주는 익스텐션
+
+
