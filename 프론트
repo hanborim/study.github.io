@@ -5,6 +5,11 @@
 4.Bracket Pair Colorizer
 5.indent-rainbow - () 중괄호 {} 등 색깔 입혀짐
 6.Auto Rename Tag -앞에 태그를 바꾸면, 뒤에 태그 자동으로 변경
-7. CSS Peek - css정의된부분 찾아주는 익스텐션
+7. CSS Peek - css정의된부분 찾아주는 익스텐션 (컨트롤키 누른상태로 태그누르면 됨)
+8.HTML CSS Support -정의한 태그 자동 완성
+9.live server (화면 새로고침 없이, 비쥬얼소스 코드 명령 편집기에서 , live 로해서 화면 보면 된다)
+10.markdown preiview
+
+
 
 
